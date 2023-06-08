@@ -21,8 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
-  
-  
+    <br>
+      <br>  
 - 👋 Hi, I’m @Bushogun or Jonathan Soto
 - 👀 I’m interested in Front End, FrontEnd frameworks, 3D and illustration
 - 💞️ I’m looking to collaborate on Application project
