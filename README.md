@@ -22,7 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
     <br>
-      <br>  
+    <br>  
 - 👋 Hi, I’m @Bushogun or Jonathan Soto
+ <br>
 - 👀 I’m interested in Front End, FrontEnd frameworks, 3D and illustration
+  <br>
 - 💞️ I’m looking to collaborate on Application project
