@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bushogun or Jonathan Soto
 - 👀 I’m interested in Front End, frameworks, 3D and illustration
-- 🌱 I’m currently learning REACT and Angular
 - 💞️ I’m looking to collaborate on Front End project
 - 📫 How to reach me ...
 
