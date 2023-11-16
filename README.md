@@ -31,6 +31,6 @@
     <br>  
 - 👋 Hi, I’m @Bushogun or Jonathan Soto
  <br>
-- 👀 I’m interested in Front End, FrontEnd frameworks, 3D and illustration
+- 👀 I’m interested in FullStack, FrontEnd frameworks, 3D and illustration
   <br>
 - 💞️ I’m looking to collaborate on Application project
