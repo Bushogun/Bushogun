@@ -33,4 +33,3 @@
  <br>
 - 👀 I’m interested in FullStack, FrontEnd frameworks, 3D and illustration
   <br>
-- 💞️ I’m looking to collaborate on Application project
